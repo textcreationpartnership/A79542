@@ -1,0 +1,268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christian souldiers magazine, of spirituall weapons. Wherein all degrees of souldiers may be compleatly armed with zeal and courage (from the alsufficiencie of the Lord of hosts) to encounter with the Goliahs of our times. As also armour of proof against the three arch-enemies of mankind, viz. the flesh, the world, and the devill. By a well-wisher of the cause of Christ. Inprimatur [sic], Edm. Calamy.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79542</idno>
+            <idno type="STC">Wing C3949</idno>
+            <idno type="STC">Thomason E1189_7</idno>
+            <idno type="STC">ESTC R208282</idno>
+            <idno type="EEBO-CITATION">99867243</idno>
+            <idno type="PROQUEST">99867243</idno>
+            <idno type="VID">119548</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79542)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119548)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1189[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christian souldiers magazine, of spirituall weapons. Wherein all degrees of souldiers may be compleatly armed with zeal and courage (from the alsufficiencie of the Lord of hosts) to encounter with the Goliahs of our times. As also armour of proof against the three arch-enemies of mankind, viz. the flesh, the world, and the devill. By a well-wisher of the cause of Christ. Inprimatur [sic], Edm. Calamy.</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>by G. Bishop,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A.</note>
+                  <note>Annotation on Thomason copy: "Octob: 18:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119548:1" rendition="simple:additions"/>
+            <p>THE CHRISTIAN SOULDIERS Magazine, OF <hi>Spirituall Weapons.</hi>
+            </p>
+            <p>Wherein all degrees of Soul<g ref="char:EOLhyphen"/>diers may be Compleatly Armed with Zeal and Courage (from the Al-ſufficiencie of the Lord of Hoſts) to encounter with the <hi>Goliahs</hi> of our Times.</p>
+            <p>As alſo <hi>Armour of Proof</hi> againſt the Three Arch-Enemies of Mankind, <hi>viz.</hi> The <hi>Feſh, the World, and the Devill.</hi>
+            </p>
+            <p>By a well-wiſher of the Cauſe of <hi>CHRIST.</hi>
+            </p>
+            <q>
+               <bibl>2 <hi>Chron.</hi> 32.6, 7.</bibl> Be ſtrong and Couragious, be not afraid nor diſmayed for the King of <hi>Aſſyria,</hi> nor for all the multitude that is with him: for there be more with us then with him: with him is an arm of fleſh, but with us is the Lord our God, to help us, and to fight our battells. And the peo<g ref="char:EOLhyphen"/>ple reſted themſelves upon the words of <hi>Heze<g ref="char:EOLhyphen"/>kiah</hi> King of <hi>Judah.</hi>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>
+                           <hi>Imprimatur,</hi>
+                        </p>
+                        <closer>
+                           <signed>Edm. Calamy.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed at <hi>London,</hi> by <hi>G. Biſhop.</hi> 1644</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119548:2"/>
+            <pb facs="tcp:119548:2"/>
+            <head>The Chriſtian Souldiers Magazine of Spirituall Weapons.</head>
+            <epigraph>
+               <q>
+                  <bibl>2 Chron. 32.6.</bibl>
+                  <p>Be ſtrong and Couragious, be not afraid nor diſmayed for the King of <hi>Aſſyria,</hi> &amp;c.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N theſe words Chriſtian Courage is cry<g ref="char:EOLhyphen"/>ed up, and all ſinfull feare is cryed downe. Even all kinds of diſmayings, which put men upon ſinfull ſhifts in troublous times. For which every true Chriſtian is to labour to diſſwade both themſelves and others, under the conſideration of Gods command; who as frequently forbids all diſtracting and diſtruſt<g ref="char:EOLhyphen"/>full feares, as murder and Theft, &amp;c. Beſides the con<g ref="char:EOLhyphen"/>ſequences are very miſchievous to our ſelves, both in ſoules and bodies, to others, by our ill example, and greatly diſhonourable to our God. I will not denie, but grant, The ſtrongeſt Champion, and ſtouteſt Commander that ever drew ſword, being he is but a man, is ſometimes ſubject to be over-powred by them. <hi>David,</hi> a man after Gods own heart, and a moſt Valiant Warrior of undaunted magnanimity, hee complaines of his owne ſhivering Fitts. <hi>Pſal.</hi> 55.3. <hi>Fearfulneſſe and trembling is fallen upon mee, and an horrible dread hath overwhelmed mee.</hi> And in ano<g ref="char:EOLhyphen"/>ther place, he ſaid; I ſhall one day periſh by the hand of <hi>Saul,</hi> 1 <hi>Sam.</hi> 27.1. And <hi>Paul,</hi> when his friends
+<pb facs="tcp:119548:3"/>
+perſwaded him not to goe up to <hi>Jeruſalem,</hi> anſwered with a moſt undaunted courage and reſolution, <hi>What mean ye to weep, and to break my heart? for I am ready not to be bound only; but alſo to die at</hi> Jeruſalem <hi>for the Name of the Lord JES<g ref="char:V">Ʋ</g>S, Acts</hi> 21.12, 13. And yet the ſelf ſame <hi>Paul</hi> ſaies, <hi>Without were fightings, within were feares.</hi> 2 <hi>Cor.</hi> 7.5.</p>
+            <p>Our Saviour complaines even of his own Diſci<g ref="char:EOLhyphen"/>ples, crying out, <hi>O ye of little faith, Matth.</hi> 8.26. And againe, <hi>Where is yuur Faith? Luke,</hi> 8.25.</p>
+            <p>This is cauſed ſomtimes by divine diſſertions, <hi>Pſal.</hi> 30.6, 7. <hi>Thou didſt hide thy face, and I was troubled, &amp;c.</hi> And ſometimes through the black Inditements which Satan is apt to ſet before mens eyes, if the Lord but allow him that liberty. As the depth of their danger, and the fierce anger of God againſt ſin, &amp;c. Yet notwithſtanding, every Chriſtian may get good ground of hope out of Gods Word. Yea, even the moſt timerous may gather ſtrength in the moſt trou<g ref="char:EOLhyphen"/>bleous times. It is very obſervable, what ſtrength <hi>David</hi> got againſt ſuch ſhivering fits. When he ſaid. <hi>I will not be afraid of ten thouſands of people, that have ſet themſelves againſt me, round about: Pſal.</hi> 3, 6. It may be objected, that this was but a ſuppoſition of <hi>Davids,</hi> l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke <hi>Peters,</hi> who ſaid to our Saviour, <hi>though all men ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld forſake thee, yet will not I:</hi> but if <hi>David</hi> had been pu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the tryal, as <hi>Peter</hi> was, he would have fallen as <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ully as he did. <hi>Anſ.</hi> Nay, but he was in preſent danger then he ſpake theſe words, as it appeares here, <hi>verſ.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>.2. and yet he ſaid, <hi>I laid me downe and ſlept, and roſe up again, for the Lord ſustained me, verſ.</hi> 5.</p>
+            <p>
+               <hi>Object.</hi> O but there's a great deale of difference be<g ref="char:EOLhyphen"/>tween
+<pb facs="tcp:119548:3"/>
+the faith of <hi>David,</hi> and ſuch a poore weake wretch as I am.</p>
+            <p>
+               <hi>Anſ.</hi> We have all the ſame ſpirit of faith which hee had. 2 <hi>Cor.</hi> 4.13.</p>
+            <p>
+               <hi>Object.</hi> He had great knowledge and intereſt in the Promiſes of God, and therefore well may his faith be farre ſtronger then mine.</p>
+            <p>
+               <hi>Anſ.</hi> Have not all the people of God an equall rite to all the Promiſes? No ſinne ſhall have dominion over you, <hi>Ro.</hi> 6.14. therefore no ſinfull feare. The ſelf ſame faith that <hi>David</hi> had, all the Saints of God have an Intereſt in, and we may expect as great a de<g ref="char:EOLhyphen"/>gree of the aſſiſtance of Gods Spirit, as <hi>David</hi> did, having the ſelf-ſame grounds for our Faith, that he had for his. And our Ordinances, which through Gods great mercy we yet Injoy, are altogether as good. <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> yeſterday and to day, and the ſame for ever.</p>
+            <div type="part">
+               <head>Means to be uſed, to get rid of theſe ſinfull fears.</head>
+               <p n="1">1. Labour to make ſure of your Intereſt in heaven, <hi>Jo.</hi> 14.1. <hi>Let not your hearts be troubled, ye beleeve in God, beleeve alſo in me.</hi> verſ. 2. <hi>In my fathers houſe are many Mantions, &amp;c. I goe to prepare a place for you.</hi>
+               </p>
+               <p>Our Lord himſelf has given us his own example, and he has now found the experience of this truth; <hi>he<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> indured the Croſſe, diſpiſing the ſhame, and is now ſet down at the right hand of God.</hi> Heb. 12.2, 3, 4.</p>
+               <p>This was it which ſteeled <hi>Moſes</hi> his faith, and made him eſteem the reproach of Chriſt greater riches then the treaſures of <hi>Egypt,</hi> for he had reſpect unto the re<g ref="char:EOLhyphen"/>compence
+<pb facs="tcp:119548:4"/>
+of the reward. <hi>Heb.</hi> 11.26.</p>
+               <p>The Saints alſo took with joy the ſpoiling of the goods, knowing that they had in heaven a better and a more induring ſubſtance. <hi>Heb.</hi> 10.34. All we have is not heere; We have ſomething out of the reach of thoſe curſed Cavaliers. It is worth our obſerving, that in heaven is Subſtance, here are but the ſhadows, ſhells, huskes; there are the kernells, and the ſol<g ref="char:EOLhyphen"/>lid graine. That is, a better ſubſtance, theſe reach only the outward man, they come immediately from God himſelf. And which is beſt, in inioying that, we have communion with our God. All that is here, are but like ſnow-balls, which melt in the hand, <hi>Prov.</hi> 23.5. <hi>Wilt thou ſet thy heart upon that which is not? Ri<g ref="char:EOLhyphen"/>ches take to themſelves wings, and flie away, &amp;c.</hi>
+               </p>
+               <p>But we have in heaven a better and a more indu<g ref="char:EOLhyphen"/>ring Subſtance.</p>
+               <p>It was the ſaying of a holy man (who is now with God) There is but one ſhort life between us and a crown; and when this momentary life is ended, we ſhal injoy an incorruptible Crown of glory unto all eterni<g ref="char:EOLhyphen"/>tie. Labour therefore for Spirituall Purity. <hi>Bleſſed are the pure in heart, for they ſhall ſee God,</hi> Matth. 5.8.</p>
+               <p n="2">2. Labour to ſet your judgements right concern<g ref="char:EOLhyphen"/>ing thoſe things that occaſion your ſinfull fears. In the night time we are apt to thinke that theeves are com<g ref="char:EOLhyphen"/>ming into our houſes to rob us, when our friends are coming to viſite us. <hi>Matth.</hi> 14.26, 27. VVhen the Diſciples thought they had ſeen a Spirit on the water, and thereupon cryed out through cauſeleſſe feare, the Lord is pleaſed to ſhew them their errour, and calls unto them, ſaying, <hi>It is I, be not afraid.</hi>
+               </p>
+               <p>
+                  <pb facs="tcp:119548:4"/>
+                  <hi>Can there be evill in a City, and the Lord hath not done it?</hi> Amos 3.6. Inform your ſelves, that the Lord doth over-power all thoſe men that come againſt you.</p>
+               <p n="2">2. All that which ſeems to threaten our ruine, can reach onely to the outward man. <hi>Luk.</hi> 12.4, 5. <hi>My friends, fear not them that can kill the body, &amp;c.</hi>
+               </p>
+               <p n="3">3. They have but a little time allotted them, and al<g ref="char:EOLhyphen"/>lowed to vex and trouble you. And then follows Eternall joy. Theſe light afflictions, which laſt but for a moment, cauſe unto us a far more exceeding, and eternall weight of glory, &amp;c. 2 <hi>Cor.</hi> 4.17.</p>
+               <p n="4">4. That very time is determined by God, both for the beginning, continuance and end, <hi>Iſay</hi> 51.12, 13. <hi>I, even I am he that comforteth thee; Who art thou, that thou ſhouldest be afraid of a man that ſhall die, and of the ſon of man, which ſhall be made as graſſe. And forgeteſt the Lord thy Maker, that hath ſtretched forth the heavens, and laid the foundation of the Earth, and haſt feared con<g ref="char:EOLhyphen"/>tinually, every day, becauſe of the fury of the oppreſſor, as if he were ready to deſtroy? and where is the fury of the Oppreſſor, &amp;c.</hi>
+               </p>
+               <p>Laſtly, all things whatſoever befalls you, ſhall be for your good in the end, <hi>Rom,</hi> 8.28. Doubtleſſe goodneſſe and mercy ſhall follow me all the dayes of my life, ſaith the Prophet <hi>David. Pſal.</hi> 23. laſt.</p>
+            </div>
+            <div type="part">
+               <head>Directions or means, by which the Servants of God may free themſelves of ſinfull fears in the time of the deepeſt dangers.</head>
+               <p n="1">1. By diverting the ſtream another way. As Phi<g ref="char:EOLhyphen"/>ſitians,
+<pb facs="tcp:119548:5"/>
+when they would ſtanch bleeding at the noſe &amp;c. uſe to let the Patients blood in ſome other part of the body, ſo Gods people, to cure themſelues of this ill humour of ſinfull feare of men, ſhould get the feare of God ſetled in their hearts, <hi>Luk</hi> 12.4, 5. <hi>Iſa.</hi> 8.12, 13. <hi>Feare ye not their feare nor be afraid. But ſanctify the Lord of Hoſts himſelfe, and let him be your feare and let him be your dread.</hi> And he ſhall be for a ſanctuary, &amp;c.</p>
+               <p n="2">2. Do not feed your feares nor fancyes with ſuch thoughts as are apt to terrifie and affright you, <hi>Iſa.</hi> 33.18. mention is made of meditating terrour. <hi>Iſa.</hi> 51.12, 13. The Lord cheeks ſuch fearfull ones, and incoura<g ref="char:EOLhyphen"/>ges them in his comforting of them.</p>
+               <p n="3">3. We ſhould take up our thoughts with a more ta<g ref="char:EOLhyphen"/>king feare; which is to be gathered from the conſide<g ref="char:EOLhyphen"/>ration of that dreadfulneſſe which is in God. As ſup<g ref="char:EOLhyphen"/>poſe a King be angry: though the wrath of the King be as the roring of a Lion, much more fearfull and terrible is the wrath of God. who would not feare thee O King of Saints, &amp;c. <hi>Ier.</hi> 10.7. <hi>His wrath reaches the ſoule and burns to the nethermoſt Hell. O It is a fearfull thing to fall into the hands of the living God, Heb.</hi> 10.31. <hi>For our God is a conſuming fire, Heb</hi> 12. <hi>ult.</hi>
+               </p>
+               <p n="4">4. This is affected by ſtocking up the originall of ſinfull fears by the very roots, whereof there are cheif<g ref="char:EOLhyphen"/>ly two or three. 1. An inordinate love to the things wo are in danger to loſe, as riches and honour, and the things of this life, which periſh even with the very uſing. Ier. 45.4, 5. <hi>The Lord comforteth Baruch in this regard. Promiſing to giue him his life for a prey.</hi> 2. An inordinate love of liberty and life, but Chriſts
+<pb facs="tcp:119548:5"/>
+Champions ſhould ſhake off all baſe ſinfull feare in re<g ref="char:EOLhyphen"/>gard of theſe things. And learne of zealous <hi>Paul</hi> not to count our lives deare unto us ſo that we may finiſh our courſe with joy. &amp;c. Act. 20.24. 3. Diſtruſtfull ſuſpitions concerning our own preſent condition. As fearing overmuch leaſt the Lord is now filling up a cup of his wrath and making me to drink deep of it. But remember <hi>David</hi> reaſonning with himſelfe in the like caſe, and ſay with him, <hi>Why art thou ſo full of hea<g ref="char:EOLhyphen"/>vineſſe O my ſoule, and why art thou ſo diſquieted with<g ref="char:EOLhyphen"/>in me? ſtill truſt in God, &amp;c. Pſa.</hi> 42.5. <hi>&amp;</hi> 11. <hi>The Lord is my Light and my Salvation, whom then ſhall I feare, the Lord is the ſtrength of my life, of whom then ſhall I be afraide. Pſa.</hi> 27.1.2, 3. 5. Walke exactly, and carefully keepe at a diſtance from all ſins againſt Light and againſt Conſcience. <hi>Adam</hi> ſo long as he kept himſelfe free from ſin, was not at all ſubiect to theſe feares, but as ſoone as he fell into ſinne, imme<g ref="char:EOLhyphen"/>diately the poore man betakes himſelf to vaine ſhifts, and runnes among the trees of the garden, thinking to hide himſelf from God, <hi>Gen.</hi> 3.9, 10.</p>
+               <p>
+                  <hi>Caine,</hi> After he had committed that horrible ſin in murdering his Brother, was afraid without any ſenſe or reaſon, that whoſoever met him, would kill him, when as his brother was dead, and there was no man elſe of whom he needed to ſtand in feare. <hi>Gen.</hi> 4.14.</p>
+               <p n="6">6. VVhen upon reconciling of Conſcience and the VVord of God, it appeares we are guilty of ſinnes, we muſt labour to get rid of all. As <hi>Jobs</hi> friends adviſed him. <hi>Job</hi> 11.14, 15. <hi>If iniquity be in thine hand, put it far away, and let not wickedneſſe dwell in thy Tabernacles.</hi> For then ſhalt thou lift up thy face without ſpot: ye<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,
+<pb facs="tcp:119548:6"/>
+thou ſhalt be ſtedfaſt, and ſhalt not feare, <hi>&amp;c.</hi> Take the example of <hi>David. Pſal.</hi> 51. From the VVord of God, labour to ſee the height, the depth, the bredth and the length of the ſin that lies heavieſt upon your Con<g ref="char:EOLhyphen"/>ſcience, and labour to doe your utmoſt to make up the breach, and to cure the wound from the bottom.</p>
+               <p n="7">7. Flee to the Throne of Grace. For God alone can quiet the heart. <hi>Nehem.</hi> 6.9. <hi>Pſal.</hi> 3.3.7.</p>
+            </div>
+            <div type="part">
+               <head>For Direction herein, Take the example of <hi>Jacob.</hi> Geneſ. <hi>32.9, 10,</hi> &amp;c.</head>
+               <p n="1">1. Labour to make it appeare with a cleere Con<g ref="char:EOLhyphen"/>ſcience, that you are in Gods way, as he did, being a<g ref="char:EOLhyphen"/>fraid of his Brother. <hi>verſ.</hi> 9. And that it is for his Cauſe, that you goe forth to the help of the Lord againſt the mighty.</p>
+               <p n="2">2. Humbly and thankfully acknowledge God to be the Authour of all mercies and favours, which you Inioy.</p>
+               <p n="3">3. Humbly acknowledge your ſelf unworthy to re<g ref="char:EOLhyphen"/>ceive any favour at the hands of God. <hi>verſ.</hi> 10.</p>
+               <p n="4">4. As he pleades the promiſe of God, <hi>verſ.</hi> 12. So doe thou tell the Lord. Lord, thou haſt ſaid, thou wilt forgive my iniquities, and remember my ſins no more, that thou wilt love me freely, that thou wilt caſt all my ſins into the bottom of the Sea, that thou wilt heale all my back ſlidings, <hi>&amp;c.</hi>
+               </p>
+               <p n="5">5. Make good I beſeech thee now theſe precious Promiſes to mee: hold on perſevering in prayer and other duties, notwithſtanding all the checks and con<g ref="char:EOLhyphen"/>troulments, as <hi>Jacob</hi> did, <hi>ver.</hi> 26.</p>
+               <p n="6">
+                  <pb facs="tcp:119548:6"/>6. Take heed thy eye and heart be not taken off from Chriſt, in flying to the Throne of Grace: for Chriſt is an Alſufficient Mediatour, and Gods Fa<g ref="char:EOLhyphen"/>vourite, able to ſave to the uttermoſt, all that come un<g ref="char:EOLhyphen"/>to God by him, and be thy ſinnes what they will, or can be, there is vertue and efficacie enough in his moſt precious blood, to waſh them all away. Nay, thou canſt not commit ſo much ſinne as he can pardon, &amp;c.</p>
+               <p n="7">7. Adde to all this, the exerciſe of precious faith, <hi>Pſal.</hi> 112.7.8. <hi>David</hi> ſaith, <hi>The heart of a Godly man is fixed, trusting in the Lord, &amp;c. Prov.</hi> 29.25.</p>
+            </div>
+            <div type="part">
+               <head>Rules to be obſerved in relying upon God.</head>
+               <p n="1">1. Labour to apprehend from the light of Gods VVord by the helpe of Faith, ſo much in God, as is ſufficient to ſinke all ſinfull and ſlaviſh feares. For it is not ſufficient to ſay, I beleeve in God, with all my heart, or I put my whole truſt and confidence in God, but we muſt get firme and grounded footing for our Faith to reſt upon, from the word and Promiſes. <hi>Iſa.</hi> 12.2 3.</p>
+               <p>Behold God is my Salvation, I will truſt, and not bee afraid, for the Lord <hi>Jehovah</hi> is my ſtrength, and my ſong, he alſo is become my ſalvation. Therefore with ioy ſhall ye draw water out of the wells of Salva<g ref="char:EOLhyphen"/>tion. <hi>Moſes</hi> ſaw him that is inviſible. <hi>Hebr.</hi> 11.27.</p>
+               <p n="2">2. Labour to ſee how the Promiſes may imbolden you to come up to God for helpe and ſuccour in time of need. <hi>Pſal.</hi> 56.4. In God I have put my truſt, I will not be afraid what fleſh can doe unto me.</p>
+               <p n="3">3. Be imboldned by the mediation of the Lord Je<g ref="char:EOLhyphen"/>ſus
+<pb facs="tcp:119548:7"/>
+to preſent with confidence all your ſuites and ſup<g ref="char:EOLhyphen"/>plications before the Throne of God. <hi>Jobn</hi> 14.1. Let not your hearts be troubled, ye beleeve in God, beleeve alſo in me, otherwiſe ſelfe-ſinfulneſſe and ſelf-unworthineſſe will utterly diſcourage and affright you.</p>
+               <p>Laſtly, Come unto God Improving your former experiences of his mercies in delivering thee from dangers, and freeing thee from troubles. <hi>David</hi> ſaid I have ſlaine a Lion and a Beare, &amp;c. And that God which hath delivered me out of the mouth of the Lion, and out of the paw of the Beare, he will deliver mee from this uncircumciſed Philiſtine.</p>
+               <p>And have not we been many a time wonderfully delivered from heart-ſhaking dangers, by the power<g ref="char:EOLhyphen"/>full hand of the ſame God. O how ſhould this incou<g ref="char:EOLhyphen"/>rage us ſtill to rely upon him, even in our greateſt ſtraights.</p>
+               <p>Call to remembrance the marvellous mercies, and miraculous victories and deliverances from the blou<g ref="char:EOLhyphen"/>dy hands of thoſe mercileſſe men at the Battle in <hi>Ken<g ref="char:EOLhyphen"/>ton</hi> feild, at <hi>Cauſeham</hi> Bridge, at <hi>Branford,</hi> and eſpe<g ref="char:EOLhyphen"/>cially now of late on <hi>Heſſammoore</hi> neer <hi>Yorke,</hi> Each of theſe requiring a large Volume to ſet forth to the full the manifold more then marvellous workes of our moſt mighty Lord God of Hoſts, who when the Ene<g ref="char:EOLhyphen"/>my came in like a floud, by the Invincible force of his ſpirit lifted up a Stander againſt them. And have a ſpe<g ref="char:EOLhyphen"/>cial care for ever hereafter to honour this God by caſt<g ref="char:EOLhyphen"/>ing all thy care upon him, for undoubtedly he careth for you and will not faile thee nor forſake thee.</p>
+            </div>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:119548:7"/>
+            <head>A Prayer purprſely penned for the uſe and helpe of ſuch Souldiers on whom the Lord hath not beſtowed that gracious Spirit of Supplications, &amp;c.</head>
+            <p>O Almighty Jehovah, who haſt ſtiled thy ſelfe a man of warre, thou Lord of Hoſts, even the God mighty in bat<g ref="char:EOLhyphen"/>tell, more terrible (in thy wrathfull diſpleaſure expreſſed towards thy ingorrigible enemies) then all armies with banners; thou that art that God that haſt formed and faſhioned me in my mothers wombe after a fearefull and wonderfull manner, and by whoſe appointment I am come into this world, both to doe and to ſuffer whatſoever thy determinate Counſell, and ſecret decree (more unchangeable then that of the Meades and Per<g ref="char:EOLhyphen"/>ſians which altereth not) hath preordained from all eternity concerning me, before whoſe awfull Maieſtie, in the preſence, not onely of a company of thy elect Saints on earth, but alſo of thy glorious heavenly Angells. I have ſolemly promiſed and vowed at the time of my admiſſion to partake of the Sacrament of baptiſme (being a ſigne, and (as I hope and firmely beleeve a ſeale unto my poore ſoule, of thy moſt free and gracious accep<g ref="char:EOLhyphen"/>tation of me to be a member of that miſticall body, whereof my ſweete Saviour Ieſus Chriſt is the moſt holy head that I would manfully fight under thy banner, againſt ſin, the world, and the devill, and continue thy faithfull ſouldier and ſervant unto lives end, &amp;c. Now that it hath pleaſed thy Divine Maieſty in a ſpeciall manner ſo greatly to honour thy worth<g ref="char:EOLhyphen"/>leſſe creature, as to call me forth among other thy ſervants to make good my ſaid ſolemne Vow, which though to my hearts great griefe, I have often broken, yet now thou requireſt, and ſtrictly chargeſt me not to deferre any loner to pay it, in that thou haſt brought me hither to the helpe of the Lord againſt the mighty, <hi>O</hi> let thy mighty hand and ſtretched-out arme be now and evermore my defence: Teach thou my hands to war, and my fingers to fight, and cover thou my head, alſo the heads of all other thy warriers in every day of battell: ſtrengthen the weake hands, and the feeble knees of thy ſervants, ſay thou un<g ref="char:EOLhyphen"/>to the faint hearted be ſtrong and very couragious, be not afraid
+<pb facs="tcp:119548:8"/>
+nor diſmaid for the King, &amp;c. nor for all his huge hoaſt, but aſ<g ref="char:EOLhyphen"/>ſure both me and them that thou art with us to fight our bat<g ref="char:EOLhyphen"/>tells, or thine owne rather, and that thou wilt maintaine thy owne Cauſe, and avenge the quarrell of thy Covenant, and then we need not doubt but there are more with us then with them, For if our God be for us, who can be againſt us? Doſt thou not ſee, O Lord God, all their ſecret hell-bred Plots, their cur<g ref="char:EOLhyphen"/>ſed contrivances, and damnable conſpiracies, which thoſe chil<g ref="char:EOLhyphen"/>dren of Beliall combine together unceſſantly to vent their devi<g ref="char:EOLhyphen"/>ſpight, not onely againſt thy poore people, but even againſt thy ſecret ſelfe, and againſt thy annointed my ſweet Saviour the Lord Jeſus Chriſt: Doſt thou not heare, nor take notice of their horrible <hi>Oathes</hi> and <hi>Perjuries,</hi> their beaſtly blaſphe<g ref="char:EOLhyphen"/>mies which they continually (and more abundantly of late then formerly) belch in thy very face: <hi>O</hi> Lord <hi>I</hi> know thou doſt; Are not all their unparraleld imprications and ſelfe-ſoule damnati<g ref="char:EOLhyphen"/>ons noted in thy booke? my <hi>God</hi> I know they are. <hi>O</hi> the long ſuffering, and the invincible patience of the omnipotent Lord of heaven and earth who has theſe wretches in his hand, and can grinde ſuch broken Potſheards to powder at his pleaſure, and ſtampe them under his feete as mire: yea, and hurle them all into hell fire at his pleaſure: Lord, is not the iniquitie of theſe <hi>Amorites</hi> yet ful? when wilt thou cloath thy ſelf with zeal as with a cloke? thou haſt long ſince begun to ſmite them; <hi>O</hi> when ſhall it once be that thou wilt alſo make an end? how long wilt thou delay to conſume that man of Sinne with the brightneſſe of thy appearance? how long deferreth my righteous <hi>God</hi> to powre out all the full Violls of his vengeance upon that ſcarlet whore of <hi>Babilon</hi> which has made all the Nations of the world drunke with the poyſonfull cup of that deadly wine of her fornications. O when will the righteous Iudge of the whole world ſit upon his Royall Throne and make inquiſition for all the Innocent blood that has beene powred forth in ſo great abundance by thoſe Iriſh Rebells, Engliſh Miſcreants, and Romiſh Papiſts, A<g ref="char:EOLhyphen"/>thieſts, and devills incarnate, that (like their father) are full of wrath, and ſtill ſome out great fury, which, I hope preſages, and is an eminent token of their ſpeedy perdition, and that they have but a ſhort time to reigne upon earth. I remember Lord thou haſt ſaid, That whoſo ſheddeth mans blood, by man ſhall
+<pb facs="tcp:119548:8"/>
+his blood be ſhead: Father, ſhall I be the Executioner of that thy moſt equall, juſt, and righteous decree. I beſeech thee grant power, ſtrength, Chriſtian-curage, and undaunted magnani<g ref="char:EOLhyphen"/>mitie unto thy ſervant to do valiantly, for the vindication of the glory of thy great Name, which hath ſo long beene blaſphemed by thoſe Heathens. I deſire to be inſtrumentall for the ſetting up of the Kingdome of thy deare Sonne my ſweete Lord Jeſus Chriſt, though I my ſelfe be made the loweſt and meaneſt part of his footſtoole: Nay Lord, I paſſe not what becomes of this my corruptable carkaſſe, neither count I my life deare unto me, but ſhall thinke my ſelfe highly honoured, if thou wilt enable me to lay it downe freely and cheerfully for thy ſake, who didſt not ſticke to poure out all thy moſt precious blood, yea, and thy very ſoul too for me a worthleſſe worme. Grant me therefore a ſufficient meaſure of thy grace to goe through this great and weighty worke thou haſt called me unto, and then behold Lord here I am, diſpoſe of me as thou pleaſeſt.</p>
+            <p>Alſo I moſt humbly and earneſtly beſeech thee, great and glo<g ref="char:EOLhyphen"/>rious Lord God, on the bended knees of my very Soule, to vouchſafe thy bleſſing abundantly to all our Hoſts and Forces, both by ſea and land, be thou thy ſelf Lord Admirall and Lord Generall; Sit at the Helme, ſteering the courſe of our Navey in the great Deepes, and if any forrein foe be making any pre<g ref="char:EOLhyphen"/>parations to invade this poore periſhing Land, good Lord be pleaſed either to take them alive in their own devices, which their hands have made, or elſe by the ſame Almighty Power, whereby thou overwhelmedſt that proud and preſumptuous King <hi>Pharaoh</hi> and his huge Hoſte, doe thou overwhelme them, and all their Engines and Inſtruments of VVarre in the vaſt Ocean, infuſe likewiſe <hi>I</hi> heartily pray thee into the hearts of all our Commanders in chiefe a double portion of that Spirit of magnanimity which thhu beſtoweſt upon thy Worthies of old, that like <hi>David, Joſhua, Jeptha</hi> and <hi>Sampſon, &amp;c.</hi> they may ſhew themſelves very zealous for their <hi>God,</hi> and may ſlay ſome of them their thouſands, and others their ten thouſands of thine, and thy peoples implacable enemies, laying them flat on the earth, with heapes upon heapes, and never ceaſing to perſue them, untill they have utterly deſtroyed them.</p>
+            <p>Lord root out every accurſed thing from the Campe, and let
+<pb facs="tcp:119548:9"/>
+nothing remain amongſt us, that may any way offend the eyes of thy glory, to provoke thee to depart away from us. And for Je<g ref="char:EOLhyphen"/>ſus his ſake, ſuffer neither us, the Worthies in Parliament, the Synode of Divines, the Common Councell of <hi>London,</hi> nor any Committees, any way imployed about the affaires of this totter<g ref="char:EOLhyphen"/>ing, and almoſt overthrown Iland, to give themſelves reſt, untill they have found out that new Nationall ſinne, or thoſe crying capitall Abominations, what ever they be, that has prevailed ſo far with thy Maieſty, as to bring that great Evill upon us, in making thy <hi>Iſrael</hi> to fly before, and turne their backs upon their enemies: find out every <hi>Achan</hi> among us, and diſcover thou e<g ref="char:EOLhyphen"/>very Treacherous dealer ſpeedily in the whole army, for they have dealt very trecherouſly in the Covenant of the Lord of Hoſts. And good Lord, I pray thee, Command our Rulers to take ſpeedy order (<hi>Joſhua</hi> like) that ſuch troublers of the <hi>Iſra<g ref="char:EOLunhyphen"/>el</hi> of God, may be troubled themſelves, without any longer pro<g ref="char:EOLhyphen"/>craſtination; That ſo the heavy wrath of God, ſo grievouſly kindled againſt his owne people, and threatning the utter ruine and totall ſubvertion of this wofully waſted Kingdome, may be appeaſed, and Juſtice being impartially executed by our faithfull <hi>Phinehaſſes,</hi> the Plague may be ſtayed, the deſtroying Angel may be commanded to put up his ſword into its ſcabbord, the Lord may be pleaſed againe to be mercifull unto us, in lifting up the light of his Countenance upon us, granting unto us that great bleſsing of Peace with Truth, even that Peace of, and with our God, which paſseth all Vnderſtanding; And our Land may have reſt from all our enemies. All which, with whatſoever elſe particularly thou of thy infinit mercy knoweſt to be needful for thy unworthy Servant, this whole Nation, or any other of thy poore people all the World over, I humbly beg and crave at thy mercifull hands, only and alone for <hi>Jeſus Chriſt</hi> his ſake. To whom with thy own Sacred Maieſtie, O Father of Mercies, and the moſt holy Spirit of Grace, mercy, Peace and Truth, be aſ<g ref="char:EOLhyphen"/>cribed from the bottome of my heart-root, all poſſible glory, h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nour, praiſe, thankſgiving and obedience, now and ever<g ref="char:EOLhyphen"/>more. <hi>Amen.</hi>
+            </p>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
